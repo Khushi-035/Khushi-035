@@ -1,48 +1,33 @@
 # Khushi Sachan
 
-**Software Engineer · Backend Systems · Distributed Computing**
+*software engineer · backend systems · distributed computing*
 
-Integrated B.Tech + M.Tech in Information Technology, IIIT Gwalior.
+I like building software and understanding what happens beneath the abstractions — how services communicate, how data moves, and how systems behave when things go wrong.
 
-I enjoy building reliable backend software and understanding how systems behave under concurrency, failure, and scale. My experience includes Go-based backend infrastructure, microservices, reusable testing tools, and networked applications.
+Most of my work and experiments are around **Go, Python, and C++**.
 
-## Engineering interests
+## Things I like working on
 
-- Backend engineering and distributed systems
-- Go, Python, and C++
-- Data infrastructure and event-driven architectures
-- Databases, messaging systems, and API design
-- AI engineering, LLM applications, and retrieval systems
+Backend systems · Distributed systems · Databases · Networking · Developer tooling · AI/LLM applications
 
-## Technologies
+## Selected work
 
-| Area | Technologies |
-|---|---|
-| Languages | Go, Python, C++, Java, JavaScript, SQL |
-| Backend | Go, Node.js, Express, FastAPI, Django |
-| Data stores | PostgreSQL, MongoDB, MySQL |
-| Systems | Linux, TCP/IP, UDP, REST, gRPC |
-| Infrastructure | Docker, AWS, CI/CD |
-| AI/ML | PyTorch, TensorFlow, scikit-learn |
+**[InstaShare](https://github.com/Khushi-035/InstaShare)**  
+A peer-to-peer file-sharing prototype exploring socket communication, concurrency, and file transfer.  
+`Python` `TCP/UDP` `Sockets` `Threading`
 
-## Selected projects
+**[B+ Tree Database Engine](https://github.com/Khushi-035/B-Tree-Database-Engine)**  
+An educational implementation of a B+ tree, with insertion, lookup, deletion, linked leaves, and a small file-backed record demo.  
+`C++` `Data structures` `Database internals`
 
-- **[InstaShare](https://github.com/Khushi-035/InstaShare)** — Python peer-to-peer file-sharing project exploring socket communication, client/server design, and concurrent transfers.
-- **[B-Tree Database Engine](https://github.com/Khushi-035/B-Tree-Database-Engine)** — C++ implementation of a B+ tree with insertion, search, deletion, and file-backed records.
-- **[Charity](https://github.com/Khushi-035/Charity)** — MERN application for clothing donations with authentication, image uploads, and an interactive geospatial interface.
+**[Charity](https://github.com/Khushi-035/Charity)**  
+A full-stack donation platform concept with account flows, clothing listings, image uploads, and a globe-based view.  
+`React` `Node.js` `MongoDB`
 
-## Professional experience
+## Currently exploring
 
-At **CoinSwitch**, I worked on Go backend infrastructure and microservices, including API routing, reusable release-validation tooling, secrets-management workflows, and production reliability.
+Event-driven architectures and Kafka, alongside practical LLM systems — especially retrieval, evaluation, and building useful applications around them.
 
-## Background
+## Say hello
 
-- Qualified GATE 2025 (Computer Science).
-- Solved 600+ problems across LeetCode and Codeforces.
-- Former Chairperson, IEEE Student Branch, and President, Student Activity Council at IIIT Gwalior.
-
-## Connect
-
-- Email: [sachan.khushi02@gmail.com](mailto:sachan.khushi02@gmail.com)
-- GitHub: [Khushi-035](https://github.com/Khushi-035)
-
+[sachan.khushi02@gmail.com](mailto:sachan.khushi02@gmail.com)
